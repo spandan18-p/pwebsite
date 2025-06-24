@@ -1,4 +1,3 @@
-https://script.google.com/macros/s/AKfycbyhG8aY83ogl6halTJQycZwTrhWZjFBBrninnSL1qTIpUghLYMMiwRcyMVDiDL7RXE5/exec
 
 // Wait for the DOM to be fully loaded
 document.addEventListener('DOMContentLoaded', function() {
